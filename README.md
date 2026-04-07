@@ -1,3 +1,6 @@
+> **⚠ Personal Use Only**
+> This tool is intended for personal, local use only. Credentials and session data are stored on your machine. Do not deploy this on a shared or public server, expose it to the internet, or use it with other people's accounts. You are responsible for securing the machine it runs on.
+
 # PMS Daily Log Automator
 
 A Telegram bot that automates daily log submission to [iQube PMS](https://iqube.therig.in). The bot collects your log details via Telegram, logs in to the PMS on your behalf using Playwright, fills the form, and submits it.
