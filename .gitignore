@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Credentials & sessions
+.secret.key
+credentials/
+auth_state*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+*.egg-info/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
